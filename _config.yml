@@ -1,6 +1,6 @@
 title: 人生天地间，行行重行行
 author: 
-email: nketc at 163 dot com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Android技术个人博客: framework, app. 
 
@@ -19,7 +19,7 @@ minima:
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
